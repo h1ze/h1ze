@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align=center> 
+  Привет!👋
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="200">
+</h1>
+
+## 📫 Мои контакты:
+<div>
+  <a href="https://t.me/Kir163"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"></a>
+  <a href="mailto:burgov@mail.ru"><img src="https://img.shields.io/badge/Mail-0000FF?style=for-the-badge&logo=Mail.Ru&logoColor=FFFF"></a>
 
 <!--
 **h1ze/h1ze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
