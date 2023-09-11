@@ -3,9 +3,17 @@
   <h1> 
     Привет!👋
   </h1>
+  <p>Меня зовут Кирилл, я начинающий Frontend-разработчик.</p>
+  <p>Проживаю в городе Самара.</p>
 </div>
 
-## ⚡ Мой стек:
+## О себе:
+
+<div>
+  <p>Недавно закончил обучение в Я.Практикуме по специальности Web-разработчик. В данный момент самостоятельно осваиваюсь с Redux & Typescript, также пробую свои силы в командной разработке веб приложения вместе с другими студентами, обучавшимися в Яндексе. Обожаю книги и велосипеды, свободное от работы и учебы время посвящаю чтению или велопрогулкам, если позволяет погода. </p>
+</div>
+
+## Мой стек:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30" height="30"/>&nbsp&nbsp
@@ -17,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="30" height="30"/>&nbsp
 </div>
 
-## 🌱 В данный момент изучаю:
+## В данный момент изучаю:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="30" height="30"/>&nbsp
@@ -25,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="redux" alt="redux" width="30" height="30"/>&nbsp
 </div>
 
-## 📫 Мои контакты:
+## Мои контакты:
 
 <div>
   <a href="https://t.me/Kir163"><img src="./images/telegram.svg" width="30" height="30"></a>&nbsp&nbsp
